@@ -41,7 +41,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/livia01px2019/learning-spring.git</developerConnection>
-      <tag>pet-clinic-0.0.1</tag>
+      <tag>pet-clinic-0.0.2</tag>
   </scm>
 
 </project>
