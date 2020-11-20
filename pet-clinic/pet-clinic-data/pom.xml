@@ -3,7 +3,7 @@
     <parent>
         <artifactId>pet-clinic</artifactId>
         <groupId>com.livia</groupId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -62,4 +62,8 @@
         </plugins>
     </build>
 
+
+  <scm>
+    <tag>pet-clinic-0.0.2</tag>
+  </scm>
 </project>
