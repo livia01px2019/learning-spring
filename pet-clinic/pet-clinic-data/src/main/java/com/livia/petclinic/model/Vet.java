@@ -1,10 +1,11 @@
 package com.livia.petclinic.model;
 
+import java.util.HashSet;
 import java.util.Set;
 
 public class Vet extends Person {
 
-    Set<Specialty> specialities;
+    Set<Specialty> specialities = new HashSet<>();
 
     public Set<Specialty> getSpecialities() {
         return specialities;
