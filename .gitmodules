@@ -1,0 +1,3 @@
+[submodule "spring5-recipe-app"]
+	path = spring5-recipe-app
+	url = https://github.com/livia01px2019/spring5-recipe-app.git
