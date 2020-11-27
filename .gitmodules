@@ -4,3 +4,6 @@
 [submodule "spring5webapp"]
 	path = spring5webapp
 	url = https://github.com/livia01px2019/spring5webapp.git
+[submodule "sfg-di"]
+	path = sfg-di
+	url = https://github.com/livia01px2019/sfg-di.git
